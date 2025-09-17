@@ -1,3 +1,7 @@
+![Olympics 2024 Dashboard](https://github.com/harmanpreet07/OLYMPICS-2024-DASHBOARD/blob/main/overview.png?raw=true)
+
+
+
 # OLYMPICS-2024-DASHBOARD
 
 
