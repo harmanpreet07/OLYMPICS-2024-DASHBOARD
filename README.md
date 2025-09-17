@@ -28,7 +28,7 @@ Data Storytelling → Turning raw data into meaningful insights
 
 📸 Dashboard Preview
 
-(Make sure your screenshot is saved as dashboard.png in your repo — or update the file path above.)
+(&overview.png&)
 
 🚀 How to Use
 
