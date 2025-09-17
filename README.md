@@ -28,7 +28,7 @@ Data Storytelling → Turning raw data into meaningful insights
 
 📸 Dashboard Preview
 
-(&overview.png&)
+(https://github.com/harmanpreet07/OLYMPICS-2024-DASHBOARD/blob/main/overview.png)
 
 🚀 How to Use
 
